@@ -1,0 +1,8 @@
+name = "pd-record-worker"
+main = "index.js"
+compatibility_date = "2026-11-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "pd-record-db"
+database_id = "这里等下填D1的ID"
